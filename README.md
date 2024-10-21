@@ -10,10 +10,5 @@ The covered topics are the following:
 5. **Simulation of a 2D Ising model by the Metropolis algorithm**
 6. **Advanced simulations of a 2D Ising model**: Wolff algorithm and Multiple Markov Chains
 7. **Continuous time Markov processes, Gillespie algorithm**
-8. **Off-lattice simulations: basics**: off-lattice Monte Carlo
-9. **Integration schemes**: Euler integrator, Velocity-Verlet
-10. **Interaction potentials & thermostats**
-11. **Langevin and Brownian Dynamics**
 12. **Reweighting techniques**
-13. **Langevin simulation of many particles**
 
