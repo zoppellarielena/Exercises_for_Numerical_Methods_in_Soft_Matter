@@ -1,5 +1,5 @@
 # Exercises for Numerical Methods in Soft Matter
-This repository contains the reports of the exercises for *Numerical Methods in Soft Matter* course provided by University of Padova during a.y. 2023-2024.
+This repository contains the reports of the exercises for *Numerical Methods in Soft Matter* course provided by University of Padova.
 All the simulations data are generated in **C++ scripts**, not shared in this folder.
 
 The covered topics are the following:
@@ -10,5 +10,4 @@ The covered topics are the following:
 5. **Simulation of a 2D Ising model by the Metropolis algorithm**
 6. **Advanced simulations of a 2D Ising model**: Wolff algorithm and Multiple Markov Chains
 7. **Continuous time Markov processes, Gillespie algorithm**
-12. **Reweighting techniques**
 
